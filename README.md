@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="Github_profile.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prem</h1>
-<h3 align="center">I'm a passionate Future data Science from India.</h3>
+<h3 align="center">I'm a passionate Future data Scientist and Artificial Intelligence.</h3>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Premkumar9799817360)](https://github.com/ryo-ma/github-profile-trophy) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Premkumar9799817360&theme=algolia ) ](https://github.com/ryo-ma/github-profile-trophy)
@@ -15,13 +15,13 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://premkumar9799817360.github.io/premkumar.github.io/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://prembhargav.netlify.app/)**
 
 - 📫 How to reach me **prembhargav2002@gmail.com**
 
 - ⚡ Fun fact **It’s all about 0’s and 1’s**
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://linktr.ee/prembhargav" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 ## 🚀 Languages and Tools:
